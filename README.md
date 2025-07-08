@@ -1,4 +1,4 @@
-Game throwing expert. Semi-stack web dev.
+Frontend and a bit of backend. 
 
 <h3 align="left">Languages and Tools:</h3>
 <h2><li>Front-end</li></h2>
