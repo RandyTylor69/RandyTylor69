@@ -1,5 +1,4 @@
-Frontend and a bit of backend. 
-
+Hello! I'm a frontend developer located in Ontario, with a couple full-stack apps in my repetoire. 
 <h3 align="left">Languages and Tools:</h3>
 <h2><li>Front-end</li></h2>
 <p align="left"> 
