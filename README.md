@@ -1,4 +1,6 @@
 Hello! I'm a frontend developer located in Ontario, with a couple full-stack apps in my repetoire. 
+
+<a href="https://portfolio-seven-nu-iqpotm6vj0.vercel.app/" target="_blank"> Portfolio </a>
 <h3 align="left">Languages and Tools:</h3>
 <h2><li>Front-end</li></h2>
 <p align="left"> 
