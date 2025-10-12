@@ -1,4 +1,4 @@
-Hello! I'm a frontend developer located in Ontario, with a couple full-stack apps in my repetoire. 
+Fullstack developer located in Ontario.
 
 <a href="https://chrismao.netlify.app/" target="_blank"> Portfolio </a>
 <h3 align="left">Languages and Tools:</h3>
