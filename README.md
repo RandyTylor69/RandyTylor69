@@ -6,27 +6,10 @@
   </ul>
 </div>
 
-<p><u><strong>Portfolio Article</strong></u></p>
 
-___
+<p><u><strong>Portfolio Article</strong></u></p> <img src="https://raw.githubusercontent.com/RandyTylor69/Readme_Images/1cad47c02aefb33c0a79f362dc167ba1bf9bb1ab/Defiant_Jazz/Translate.svg" />
 
-<div>
-  
-  <div align="left">
-    
-  ![Translate](https://raw.githubusercontent.com/RandyTylor69/Readme_Images/1cad47c02aefb33c0a79f362dc167ba1bf9bb1ab/Defiant_Jazz/Translate.svg)
-  </div>
-  
-  <div align="right">
-    
-  ![Save](https://raw.githubusercontent.com/RandyTylor69/Readme_Images/f3aa155ceea24e022b69b4e4cee5186362b45e34/Defiant_Jazz/Star.svg)
-  ![Edit](https://raw.githubusercontent.com/RandyTylor69/Readme_Images/f3aa155ceea24e022b69b4e4cee5186362b45e34/Defiant_Jazz/Pencil.svg)
-  
-  </div>
-  
-</div>
-
-___
+---
 
 <p><strong><i>The Expert of Daydreaming in React</i></strong> is a title given to <a href="https://chrismao.netlify.app/">Christopher Ziyin Mao</a>, a front-end developer and author of this portflio. He is described as an "experimentalist"<sup><a href="https://en.wikipedia.org/wiki/Experimentalism">[1]</a></sup> when it comes to his coding style in React. </p>
 
