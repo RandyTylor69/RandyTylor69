@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RandyTylor69/Readme_Images/refs/heads/main/Defiant_Jazz/Girl_Rotting.png" width="550" >
-  <p align="center"><i>An accurate depiction of Chris' mental state as he works on his current project.</i></p>
+  <p align="center"><i>The mental state of him as he works on his current project.</i></p>
 </div>
 
 <br/><br/>
