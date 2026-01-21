@@ -11,7 +11,7 @@
 
 ---
 
-<p><strong><i>The Expert of Daydreaming in React</i></strong> is a title given to <a href="https://chrismao.netlify.app/">Christopher Ziyin Mao</a>, a front-end developer and author of this portflio. He is described as an "experimentalist"<sup><a href="https://en.wikipedia.org/wiki/Experimentalism">[1]</a></sup> when it comes to his coding style in React. </p>
+<p><strong><i>The Expert of Daydreaming in React</i></strong> is a title given to <a href="https://chrismao.netlify.app/">Christopher Ziyin Mao</a>, a full-stack developer and author of this portflio. He is described as an "experimentalist"<sup><a href="https://en.wikipedia.org/wiki/Experimentalism">[1]</a></sup> when it comes to his coding style in React. </p>
 
 <br/><br/>
 
