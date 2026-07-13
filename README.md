@@ -1,8 +1,9 @@
 
 &nbsp;
 
-<p>React dev by day, graphics programmer by night</p>
-<p>Here's my <a href="https://ziyinmao.vercel.app" target="_blank">portfolio</a></p>
+React dev by day, *See Plus Plus* by night
+
+Here's my [portfolio](https://ziyinmao.vercel.app)
 
 
 
