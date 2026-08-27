@@ -1,9 +1,4 @@
-
-&nbsp;
-
-React js by day, *See Plus Plus* by night
-
-Here's my [portfolio](https://ziyinmao.vercel.app)
+Graphics and embedded C/C++, occasionally React.js
 
 
 
