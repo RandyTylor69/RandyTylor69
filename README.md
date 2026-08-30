@@ -1,5 +1,4 @@
-Graphics and embedded C/C++, occasionally React.js
-
+React.js by day, recreational programming by night
 
 
 
